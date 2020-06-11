@@ -24,3 +24,30 @@
  - [x] Tarefa 2
  - [ ] Tarefa 3
  - [ ] Tarefa 4
+ 
+Tabela:
+Num | Nome | Nota
+ ---| --- | ---
+ 1 | Nome_1 | 7,0
+ 2 | Nome_2 | 9,0
+ 3 | Nome_3 | 8,5
+ 
+ Teste de comamdo: `document.getElementById()`
+ 
+Como **Steve Jobs** disse uma vez:
+
+> Decidir o que não fazer é tão 
+> importante quanto decidir 
+> o que fazer.
+
+Bela frase!
+ 
+Trecho de código:
+ ```
+num = int(input('Digite um número: '))
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+print('Fim do Programa')
+```
