@@ -20,7 +20,7 @@
  * Item 3
 
  Lista de tarefas:
- [x] Tarefa 1
- [x] Tarefa 2
- [ ] Tarefa 3
- [ ] Tarefa 4
+ - [x] Tarefa 1
+ - [x] Tarefa 2
+ - [ ] Tarefa 3
+ - [ ] Tarefa 4
