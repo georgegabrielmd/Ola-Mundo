@@ -24,5 +24,3 @@
  - [x] Tarefa 2
  - [ ] Tarefa 3
  - [ ] Tarefa 4
-
- [Acesse meu GitHub] (https://github.com/georgegabrielmd/)
